@@ -58,7 +58,7 @@ This project analyzes **364K tweets** related to **DeepSeek AI** using **Natural
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📜 License
-MIT License © 2025 Your Name
+MIT License © 2025 Nanda Gowri Ganta
 
 ---
 ⭐ **If you found this useful, please star this repo!** ⭐
